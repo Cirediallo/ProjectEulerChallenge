@@ -1,1 +1,1 @@
-# ProjectEulerChallenge
+# Project Euler Challenge
